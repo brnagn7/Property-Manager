@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import SwiftUI
 import Combine
 
 final class HomeViewModel: ObservableObject {
@@ -16,11 +15,9 @@ final class HomeViewModel: ObservableObject {
     @Published var inProgress: Int = 0
     @Published var drafts: Int = 0
 
-    func createNewInspection() {
-        print("Create new inspection")
-    }
-
     func openTemplates() {
         print("Open templates")
     }
 }
+
+
