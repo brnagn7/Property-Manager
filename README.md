@@ -16,7 +16,7 @@
 
 | Home | New Inspection | Room Checklist | PDF Report |
 |------|---------------|----------------|------------|
-| ![Home](Property-Manager/docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/checklist.png) | ![PDF](docs/screenshots/pdf.png) |
+| ![Home](Property Manager/docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/checklist.png) | ![PDF](docs/screenshots/pdf.png) |
 
 > *(You can replace these with real images later — this layout renders nicely on GitHub.)*
 
