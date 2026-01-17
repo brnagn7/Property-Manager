@@ -6,7 +6,7 @@
 //
 import SwiftUI
 
-struct ActionRowView: View {
+struct ActionRow: View {
     let icon: String
     let title: String
     let subtitle: String
@@ -40,4 +40,3 @@ struct ActionRowView: View {
         .buttonStyle(.plain)
     }
 }
-

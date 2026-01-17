@@ -15,14 +15,14 @@ struct ActionsListView: View {
     var body: some View {
         VStack(spacing: 12) {
 
-            ActionRowView(
+            ActionRow(
                 icon: "plus",
                 title: "New Inspection",
                 subtitle: "Start a new property inspection",
                 action: onNewInspection
             )
 
-            ActionRowView(
+            ActionRow(
                 icon: "doc.on.doc",
                 title: "Templates",
                 subtitle: "Manage inspection templates",

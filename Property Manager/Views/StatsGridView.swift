@@ -28,4 +28,3 @@ struct StatsGridView: View {
         .padding(.horizontal)
     }
 }
-

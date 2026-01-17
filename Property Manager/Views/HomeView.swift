@@ -9,36 +9,42 @@ import SwiftUI
 
 struct HomeView: View {
 
-    @StateObject private var viewModel = HomeViewModel()
+    @State private var showNewInspection = false
 
     var body: some View {
         NavigationStack {
+
             ScrollView {
                 VStack(spacing: 20) {
 
-                    HomeHeaderView(onNewInspection: {
-                        viewModel.createNewInspection()
-                    })
+                    HomeHeaderView {
+                        showNewInspection = true
+                    }
 
                     StatsGridView(
-                        total: viewModel.total,
-                        completed: viewModel.completed,
-                        inProgress: viewModel.inProgress,
-                        drafts: viewModel.drafts
+                        total: 0,
+                        completed: 0,
+                        inProgress: 0,
+                        drafts: 0
                     )
 
                     ActionsListView(
                         onNewInspection: {
-                            viewModel.createNewInspection()
+                            showNewInspection = true
                         },
                         onTemplates: {
-                            viewModel.openTemplates()
+                            print("Open templates")
                         }
                     )
                 }
                 .padding(.bottom, 40)
             }
             .background(Color(.systemGroupedBackground))
+
+            // SIMPLE, MODERN NAVIGATION
+            .navigationDestination(isPresented: $showNewInspection) {
+                NewInspectionView()
+            }
         }
     }
 }
