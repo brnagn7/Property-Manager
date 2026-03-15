@@ -12,7 +12,7 @@
 
 ---
 
-## 📱 Screenshots *(Coming Soon)*
+## 📱 Screenshots
 
 | Home | New Inspection | Room Checklist | PDF Report |
 |------|---------------|----------------|------------|
