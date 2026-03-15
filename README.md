@@ -17,7 +17,10 @@
 | Home | New Inspection | Room Checklist | PDF Report |
 |------|---------------|----------------|------------|
 
-| ![Home](docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/checklist.png) | ![PDF](docs/screenshots/pdf.png) |
+## 📱 Screenshots
+| Home | New Inspection | Room Checklist | PDF Report |
+|------|---------------|----------------|------------|
+| <img src="docs/screenshots/home.png" width="200"> | <img src="docs/screenshots/new-inspection.png" width="200"> | <img src="docs/screenshots/checklist.png" width="200"> | <img src="docs/screenshots/pdf.png" width="200"> | |
 =======
 | ![Home](Property Manager/docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/checklist.png) | ![PDF](docs/screenshots/pdf.png) |
 >>>>>>> 6e401a177c695dc88101a2e77a4fdd45331395c1
