@@ -22,7 +22,7 @@
 |------|---------------|----------------|------------|
 | <img src="docs/screenshots/home.png" width="200"> | <img src="docs/screenshots/new-inspection.png" width="200"> | <img src="docs/screenshots/checklist.png" width="200"> | <img src="docs/screenshots/pdf.png" width="200"> | |
 =======
-| ![Home](Property Manager/docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/checklist.png) | ![PDF](docs/screenshots/pdf.png) |
+| ![Home](Property Manager/docs/screenshots/home.png) | ![New Inspection](docs/screenshots/new-inspection.png) | ![Checklist](docs/screenshots/room.png) | ![PDF](docs/screenshots/pdf-report.png) |
 >>>>>>> 6e401a177c695dc88101a2e77a4fdd45331395c1
 
 > *(You can replace these with real images later — this layout renders nicely on GitHub.)*
