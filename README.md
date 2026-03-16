@@ -14,7 +14,7 @@
 
 ## 📱 Screenshots
 
-| Home | New Inspection | Room Checklist | PDF Report |
+| Home | New Inspection | Room Checklist | Inspection Report |
 |------|---------------|----------------|------------|
 
 ## 📱 Screenshots
