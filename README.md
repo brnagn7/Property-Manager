@@ -13,12 +13,7 @@
 ---
 
 ## 📱 Screenshots
-
 | Home | New Inspection | Room Checklist | Inspection Report |
-|------|---------------|----------------|------------|
-
-## 📱 Screenshots
-| Home | New Inspection | Room Checklist | PDF Report |
 |------|---------------|----------------|------------|
 | <img src="docs/screenshots/home.png" width="200"> | <img src="docs/screenshots/new-inspection.png" width="200"> | <img src="docs/screenshots/room.png" width="200"> | <img src="docs/screenshots/pdf-report.png" width="200"> | |
 
